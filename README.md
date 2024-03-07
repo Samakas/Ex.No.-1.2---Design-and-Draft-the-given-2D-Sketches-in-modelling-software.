@@ -35,8 +35,10 @@
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
- ## OUTPUT
- ![Uploading Screenshot 2024-03-07 113345.png…]()
+ ## OUTPUT:
+![Screenshot 2024-03-07 113345](https://github.com/Samakas/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/154731670/f154612f-9fdd-4b00-821e-de41b5babf6b)
+
+
 
  
  ## RESULT
